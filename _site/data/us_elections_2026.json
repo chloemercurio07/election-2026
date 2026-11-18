@@ -1,0 +1,352 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "senate": "Class 2: Tommy Tuberville (R, Incumbent)",
+    "governor": "Gubernatorial Election: Kay Ivey (R, Term-limited)",
+    "rating": "Solid Republican",
+    "notes": "Competitive Republican primary for open governor seat."
+  },
+  "AK": {
+    "name": "Alaska",
+    "senate": "Class 2: Dan Sullivan (R, Incumbent)",
+    "governor": "Gubernatorial Election: Mike Dunleavy (R, Term-limited)",
+    "rating": "Likely Republican (Ranked-choice voting)",
+    "notes": "Top-four primary and ranked-choice voting in effect."
+  },
+  "AZ": {
+    "name": "Arizona",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Katie Hobbs (D, Incumbent)",
+    "rating": "Tossup / Battleground",
+    "notes": "Key swing state battleground for the governorship."
+  },
+  "AR": {
+    "name": "Arkansas",
+    "senate": "Class 2: Tom Cotton (R, Incumbent)",
+    "governor": "Gubernatorial Election: Sarah Huckabee Sanders (R, Incumbent)",
+    "rating": "Solid Republican",
+    "notes": "Incumbent governor seeking second term."
+  },
+  "CA": {
+    "name": "California",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Gavin Newsom (D, Term-limited)",
+    "rating": "Solid Democratic",
+    "notes": "Major open gubernatorial contest among high-profile Democrats."
+  },
+  "CO": {
+    "name": "Colorado",
+    "senate": "Class 2: John Hickenlooper (D, Incumbent)",
+    "governor": "Gubernatorial Election: Jared Polis (D, Term-limited)",
+    "rating": "Likely Democratic",
+    "notes": "Open governorship with competitive primaries."
+  },
+  "CT": {
+    "name": "Connecticut",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Ned Lamont (D, Incumbent)",
+    "rating": "Likely Democratic",
+    "notes": "Incumbent eligible for reelection."
+  },
+  "DE": {
+    "name": "Delaware",
+    "senate": "Class 2: Chris Coons (D, Incumbent)",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Democratic",
+    "notes": "Coons seeking reelection for Senate."
+  },
+  "FL": {
+    "name": "Florida",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Ron DeSantis (R, Term-limited)",
+    "rating": "Likely Republican",
+    "notes": "High-profile open governor race after DeSantis term limits."
+  },
+  "GA": {
+    "name": "Georgia",
+    "senate": "Class 2: Jon Ossoff (D, Incumbent)",
+    "governor": "Gubernatorial Election: Brian Kemp (R, Term-limited)",
+    "rating": "Tossup / Prime Battleground",
+    "notes": "Premier national battleground for both Senate and Governor."
+  },
+  "HI": {
+    "name": "Hawaii",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Josh Green (D, Incumbent)",
+    "rating": "Solid Democratic",
+    "notes": "Incumbent governor seeking second term."
+  },
+  "ID": {
+    "name": "Idaho",
+    "senate": "Class 2: Jim Risch (R, Incumbent)",
+    "governor": "Gubernatorial Election: Brad Little (R, Incumbent)",
+    "rating": "Solid Republican",
+    "notes": "Reliably Republican statewide."
+  },
+  "IL": {
+    "name": "Illinois",
+    "senate": "Class 2: Dick Durbin (D, Incumbent)",
+    "governor": "Gubernatorial Election: JB Pritzker (D, Incumbent)",
+    "rating": "Solid Democratic",
+    "notes": "Key race watching whether veteran senator Dick Durbin runs."
+  },
+  "IN": {
+    "name": "Indiana",
+    "senate": "No regular Senate race in 2026",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Republican",
+    "notes": "House district races take center stage."
+  },
+  "IA": {
+    "name": "Iowa",
+    "senate": "Class 2: Joni Ernst (R, Incumbent)",
+    "governor": "Gubernatorial Election: Kim Reynolds (R, Incumbent)",
+    "rating": "Likely Republican",
+    "notes": "Ernst and Reynolds up for reelection."
+  },
+  "KS": {
+    "name": "Kansas",
+    "senate": "Class 2: Roger Marshall (R, Incumbent)",
+    "governor": "Gubernatorial Election: Laura Kelly (D, Term-limited)",
+    "rating": "Lean Republican / Competitive Gov",
+    "notes": "Crucial open governor seat after Democratic term-limited incumbent."
+  },
+  "KY": {
+    "name": "Kentucky",
+    "senate": "Class 2: Mitch McConnell (R, Incumbent / Retirement watch)",
+    "governor": "No gubernatorial race (next in 2027)",
+    "rating": "Likely Republican",
+    "notes": "Critical attention on potential succession for McConnell seat."
+  },
+  "LA": {
+    "name": "Louisiana",
+    "senate": "Class 2: Bill Cassidy (R, Incumbent)",
+    "governor": "No gubernatorial race (next in 2027)",
+    "rating": "Likely Republican",
+    "notes": "Jungle primary format for Cassidy seat."
+  },
+  "ME": {
+    "name": "Maine",
+    "senate": "Class 2: Susan Collins (R, Incumbent)",
+    "governor": "Gubernatorial Election: Janet Mills (D, Term-limited)",
+    "rating": "Tossup / Key Battleground",
+    "notes": "Collins defending Senate seat; open governor seat."
+  },
+  "MD": {
+    "name": "Maryland",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Wes Moore (D, Incumbent)",
+    "rating": "Solid Democratic",
+    "notes": "Moore seeking second term."
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "senate": "Class 2: Ed Markey (D, Incumbent)",
+    "governor": "Gubernatorial Election: Maura Healey (D, Incumbent)",
+    "rating": "Solid Democratic",
+    "notes": "Strong Democratic incumbents."
+  },
+  "MI": {
+    "name": "Michigan",
+    "senate": "Class 2: Gary Peters (D, Incumbent)",
+    "governor": "Gubernatorial Election: Gretchen Whitmer (D, Term-limited)",
+    "rating": "Tossup / Major Battleground",
+    "notes": "Open governor seat and critical Senate defense for Democrats."
+  },
+  "MN": {
+    "name": "Minnesota",
+    "senate": "Class 2: Tina Smith (D, Incumbent)",
+    "governor": "Gubernatorial Election: Tim Walz (D, Incumbent)",
+    "rating": "Lean Democratic",
+    "notes": "Both Senate and Governor seats on the ballot."
+  },
+  "MS": {
+    "name": "Mississippi",
+    "senate": "Class 2: Cindy Hyde-Smith (R, Incumbent)",
+    "governor": "No gubernatorial race (next in 2027)",
+    "rating": "Solid Republican",
+    "notes": "Hyde-Smith running for reelection."
+  },
+  "MO": {
+    "name": "Missouri",
+    "senate": "No regular Senate race in 2026",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Republican",
+    "notes": "State legislative and congressional contests."
+  },
+  "MT": {
+    "name": "Montana",
+    "senate": "Class 2: Steve Daines (R, Incumbent)",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Likely Republican",
+    "notes": "Daines defending his seat."
+  },
+  "NE": {
+    "name": "Nebraska",
+    "senate": "Class 2: Pete Ricketts (R, Incumbent)",
+    "governor": "Gubernatorial Election: Jim Pillen (R, Incumbent)",
+    "rating": "Solid Republican",
+    "notes": "Ricketts running for full six-year term."
+  },
+  "NV": {
+    "name": "Nevada",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Joe Lombardo (R, Incumbent)",
+    "rating": "Tossup / Key Battleground",
+    "notes": "High-stakes battleground governor defense."
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "senate": "Class 2: Jeanne Shaheen (D, Incumbent)",
+    "governor": "Gubernatorial Election (2-year term)",
+    "rating": "Lean Democratic / Competitive",
+    "notes": "Shaheen Senate seat and biennial gubernatorial race."
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "senate": "Class 2: Cory Booker (D, Incumbent)",
+    "governor": "No gubernatorial race in 2026 (next in 2029; held in 2025)",
+    "rating": "Solid Democratic",
+    "notes": "Booker running for reelection."
+  },
+  "NM": {
+    "name": "New Mexico",
+    "senate": "Class 2: Ben Ray Luj\u00e1n (D, Incumbent)",
+    "governor": "Gubernatorial Election: Michelle Lujan Grisham (D, Term-limited)",
+    "rating": "Lean Democratic",
+    "notes": "Open governorship contest."
+  },
+  "NY": {
+    "name": "New York",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Kathy Hochul (D, Incumbent)",
+    "rating": "Likely Democratic",
+    "notes": "Competitive general election for governorship."
+  },
+  "NC": {
+    "name": "North Carolina",
+    "senate": "Class 2: Thom Tillis seat (won by Roy Cooper, D)",
+    "governor": "No gubernatorial race (held in 2024, won by Josh Stein)",
+    "rating": "Key Historic Shift (Cooper +19.6)",
+    "notes": "Major focus of project; Cooper won by 19.6 points in 2026."
+  },
+  "ND": {
+    "name": "North Dakota",
+    "senate": "No regular Senate race in 2026",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Republican",
+    "notes": "Congressional at-large race."
+  },
+  "OH": {
+    "name": "Ohio",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Mike DeWine (R, Term-limited)",
+    "rating": "Lean Republican",
+    "notes": "Key open governor contest in Midwestern battleground."
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "senate": "Class 2: Markwayne Mullin (R, Incumbent)",
+    "governor": "Gubernatorial Election: Kevin Stitt (R, Term-limited)",
+    "rating": "Solid Republican",
+    "notes": "Open governor race and Mullin reelection."
+  },
+  "OR": {
+    "name": "Oregon",
+    "senate": "Class 2: Jeff Merkley (D, Incumbent)",
+    "governor": "Gubernatorial Election: Tina Kotek (D, Incumbent)",
+    "rating": "Likely Democratic",
+    "notes": "Kotek seeking second term; Merkley defending seat."
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Josh Shapiro (D, Incumbent)",
+    "rating": "Lean Democratic",
+    "notes": "Shapiro defending governorship in crucial swing state."
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "senate": "Class 2: Jack Reed (D, Incumbent)",
+    "governor": "Gubernatorial Election: Dan McKee (D, Incumbent)",
+    "rating": "Solid Democratic",
+    "notes": "Reed and McKee seeking reelection."
+  },
+  "SC": {
+    "name": "South Carolina",
+    "senate": "Class 2: Lindsey Graham (R, Incumbent)",
+    "governor": "Gubernatorial Election: Henry McMaster (R, Term-limited)",
+    "rating": "Likely Republican",
+    "notes": "Graham reelection and open governor primary."
+  },
+  "SD": {
+    "name": "South Dakota",
+    "senate": "Class 2: Mike Rounds (R, Incumbent)",
+    "governor": "Gubernatorial Election: Kristi Noem (R, Term-limited)",
+    "rating": "Solid Republican",
+    "notes": "Open governor seat after Noem term limits."
+  },
+  "TN": {
+    "name": "Tennessee",
+    "senate": "Class 2: Bill Hagerty (R, Incumbent)",
+    "governor": "Gubernatorial Election: Bill Lee (R, Term-limited)",
+    "rating": "Solid Republican",
+    "notes": "Open gubernatorial race in red stronghold."
+  },
+  "TX": {
+    "name": "Texas",
+    "senate": "Class 2: John Cornyn (R, Incumbent)",
+    "governor": "Gubernatorial Election: Greg Abbott (R, Incumbent)",
+    "rating": "Likely Republican / Battleground",
+    "notes": "Major marquee races for both Senate and Governor."
+  },
+  "UT": {
+    "name": "Utah",
+    "senate": "No regular Senate race in 2026",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Republican",
+    "notes": "Congressional contests."
+  },
+  "VT": {
+    "name": "Vermont",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election (2-year term): Phil Scott (R, Incumbent)",
+    "rating": "Competitive / Unique dynamic",
+    "notes": "Popular moderate Republican governor in progressive state."
+  },
+  "VA": {
+    "name": "Virginia",
+    "senate": "Class 2: Mark Warner (D, Incumbent)",
+    "governor": "No gubernatorial race in 2026 (held in 2025)",
+    "rating": "Lean Democratic",
+    "notes": "Warner defending Senate seat."
+  },
+  "WA": {
+    "name": "Washington",
+    "senate": "No regular Senate race in 2026",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Democratic",
+    "notes": "House congressional delegation races."
+  },
+  "WV": {
+    "name": "West Virginia",
+    "senate": "Class 2: Shelley Moore Capito (R, Incumbent)",
+    "governor": "No gubernatorial race (next in 2028)",
+    "rating": "Solid Republican",
+    "notes": "Capito seeking third term."
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "senate": "No regular Senate race in 2026",
+    "governor": "Gubernatorial Election: Tony Evers (D, Incumbent)",
+    "rating": "Tossup / Top Battleground",
+    "notes": "Crucial governor race in perennial 50-50 state."
+  },
+  "WY": {
+    "name": "Wyoming",
+    "senate": "Class 2: Cynthia Lummis (R, Incumbent)",
+    "governor": "Gubernatorial Election: Mark Gordon (R, Term-limited)",
+    "rating": "Solid Republican",
+    "notes": "Open governor race in solid red state."
+  }
+}

@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Elections 2026",
+    "title": "2026 US Elections Interactive Dashboard",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Explore the 2026 U.S. Senate and Gubernatorial races across all 50 states. Select any state from the dropdown menu or click directly on the interactive map to view election details, candidates, and pictures."
+  },
+  {
+    "objectID": "index.html#election-graphics-gallery",
+    "href": "index.html#election-graphics-gallery",
+    "title": "2026 US Elections Interactive Dashboard",
+    "section": "2026 Election Graphics Gallery",
+    "text": "2026 Election Graphics Gallery\nExplore key election-night maps and data graphics from the 2026 elections in North Carolina:\n\n\n\n\n\nInside the Numbers\n\n\nOverview of all 13 election-night graphics analyzing the 2026 North Carolina election shift.\n\n\n\n\n\n\n\nCounty Swing to Cooper\n\n\nEvery county shifted toward Democrats at the top of the ticket, led by mountain counties and suburban Raleigh.\n\n\n\n\n\n\n\nLegislative Popular Vote\n\n\nDemocratic candidates earned 59.2% of all votes cast across NC House races in 2026.\n\n\n\n\n\n\n\nNC House District Swings\n\n\nComparing each district’s 2026 result with 2024; typical districts moved 16.3 points toward Democrats.\n\n\n\n\n\n\n\nIncumbency Advantage (2008–2026)\n\n\nHistorical tracking of party incumbent performance relative to open-seat nominees.\n\n\n\n\n\n\n\nPrecinct Reporting Updates\n\n\nLocations of precincts that updated their Election Day totals after first reporting overnight.\n\n\n\n\n\n\nData Sources\n\nState Board of Elections (NCSBE): Official precinct-level election return files.\nNorth Carolina FreeEnterprise Foundation (NCFREE): Race calls, ratings, and district estimates.\nNational Data: Compiled 2026 U.S. Senate Class 2 and Gubernatorial election projections."
   },
   {
     "objectID": "about.html",
