@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Elections 2026</title>
+<title>2026 US Election Results Dashboard – Elections 2026</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -111,23 +111,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Elections 2026</h1>
+<h1 class="title">2026 US Election Results Dashboard</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -139,8 +139,363 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
+<p>Explore certified results for the 2026 U.S. Senate and Gubernatorial elections across all 50 states. Use the tabs below to view results by state or explore the national interactive map.</p>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" href="">Election Results by State</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false" href="">Interactive Map</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false" href="">Graphics &amp; Analysis Gallery</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<p>Select a state from the dropdown menu to see full election results, vote totals, margins, and candidates:</p>
+<div class="selector-box">
+  <label for="state-results-select"><i class="bi bi-card-checklist"></i> Select a State:</label>
+  <select id="state-results-select" class="state-dropdown">
+    <option value="" disabled="">-- Select a State --</option>
+  </select>
+</div>
+
+<div id="results-display" class="results-card">
+  <div class="state-card-header">
+    <img id="res-state-flag" class="state-flag-img" src="https://flagcdn.com/w320/us-nc.png" alt="State Flag">
+    <div class="state-header-text">
+      <h3 id="res-state-name" style="margin:0;" class="anchored">North Carolina</h3>
+      <span id="res-party-badge" class="rating-badge" style="background: #2563eb; color: #ffffff;">Democratic Sweep</span>
+    </div>
+  </div>
+
+  <p id="res-summary" style="font-size: 1.05rem; color: #334155; margin-bottom: 20px;">
+    Official NCSBE results: Roy Cooper flipped the U.S. Senate seat with 2.48 million votes, a historic 22.8-point swing.
+  </p>
+
+  <h4 style="margin-top: 24px; color: #1e293b; border-bottom: 2px solid #e2e8f0; padding-bottom: 6px;" class="anchored">
+    <i class="bi bi-bank"></i> U.S. Senate Race (2026)
+  </h4>
+  <div id="senate-results-container">
+    
+<table class="results-table caption-top">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Candidate</th>
+<th data-quarto-table-cell-role="th">Party</th>
+<th data-quarto-table-cell-role="th">Votes</th>
+<th data-quarto-table-cell-role="th">Percentage</th>
+<th data-quarto-table-cell-role="th">Outcome</th>
+</tr>
+</thead>
+<tbody id="senate-tbody">
+</tbody>
+</table>
+
+  </div>
+
+  <h4 style="margin-top: 24px; color: #1e293b; border-bottom: 2px solid #e2e8f0; padding-bottom: 6px;" class="anchored">
+    <i class="bi bi-person-badge"></i> Gubernatorial Race (2026)
+  </h4>
+  <div id="governor-results-container">
+    
+<table class="results-table caption-top">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th">Candidate</th>
+<th data-quarto-table-cell-role="th">Party</th>
+<th data-quarto-table-cell-role="th">Votes</th>
+<th data-quarto-table-cell-role="th">Percentage</th>
+<th data-quarto-table-cell-role="th">Outcome</th>
+</tr>
+</thead>
+<tbody id="governor-tbody">
+</tbody>
+</table>
+
+  </div>
+
+  <div id="res-nc-spotlight" class="special-nc-spotlight" style="display: block;">
+    <strong><i class="bi bi-image"></i> Official NC Election Shift (NCFREE Analysis):</strong>
+    <p style="margin: 4px 0 10px 0; font-size: 0.9rem; color: #475569;">
+      Precinct-level data confirms a 22.8-point statewide shift toward Democrats, leading to Roy Cooper's victory.
+    </p>
+    <img src="images/ncfree-2026/ncfree-election-2026-07-county-swing-to-cooper-map.jpg" alt="NC Swing Map">
+  </div>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<p>Select and inspect states visually on the national map. Colored by statewide results:</p>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div style="margin: 16px 0;">
+  <div id="election-map"></div>
+  <div class="map-legend">
+    <div class="legend-item"><span class="legend-color" style="background: #2563eb;"></span> Democratic Victory / Hold</div>
+    <div class="legend-item"><span class="legend-color" style="background: #dc2626;"></span> Republican Victory / Hold</div>
+    <div class="legend-item"><span class="legend-color" style="background: #9333ea;"></span> Split Decision (Divided Senate/Gov)</div>
+  </div>
+</div>
+</div>
+<div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
+<p>Key election night graphics and maps from the 2026 elections:</p>
+<div class="gallery-grid">
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-figure-election-extended-cut.png" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+Inside the Numbers
+</div>
+<p class="gallery-card-desc">
+Overview of all 13 election-night graphics analyzing the 2026 North Carolina election shift.
+</p>
+</div>
+</div>
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-election-2026-07-county-swing-to-cooper-map.jpg" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+County Swing to Cooper
+</div>
+<p class="gallery-card-desc">
+Every county shifted toward Democrats at the top of the ticket, led by mountain counties and suburban Raleigh.
+</p>
+</div>
+</div>
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-election-2026-08-legislative-popular-vote.jpg" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+Legislative Popular Vote
+</div>
+<p class="gallery-card-desc">
+Democratic candidates earned 59.2% of all votes cast across NC House races in 2026.
+</p>
+</div>
+</div>
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-election-2026-11-nc-house-swing-map.jpg" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+NC House District Swings
+</div>
+<p class="gallery-card-desc">
+Comparing each district’s 2026 result with 2024; typical districts moved 16.3 points toward Democrats.
+</p>
+</div>
+</div>
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-election-2026-06-incumbency-advantage-2008-2026.jpg" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+Incumbency Advantage (2008–2026)
+</div>
+<p class="gallery-card-desc">
+Historical tracking of party incumbent performance relative to open-seat nominees.
+</p>
+</div>
+</div>
+<div class="gallery-card">
+<img src="images/ncfree-2026/ncfree-election-2026-01-precinct-updates-map.jpg" class="img-fluid">
+<div class="gallery-card-body">
+<div class="gallery-card-title">
+Precinct Reporting Updates
+</div>
+<p class="gallery-card-desc">
+Locations of precincts that updated their Election Day totals after first reporting overnight.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  let map = null;
+  let geojsonLayer = null;
+  let allResults = {};
+
+  function formatRaceTable(raceData, tbodyId) {
+    const tbody = document.getElementById(tbodyId);
+    tbody.innerHTML = "";
+
+    if (!raceData || raceData.winner.includes("No Regular") || raceData.winner.includes("No Race")) {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `<td colspan="5" style="color: #64748b; font-style: italic;">${raceData ? raceData.winner : 'No regular election scheduled in 2026.'}</td>`;
+      tbody.appendChild(tr);
+      return;
+    }
+
+    const demIsWinner = raceData.winner.includes(raceData.dem_candidate) || raceData.margin.startsWith("D");
+    const repIsWinner = raceData.winner.includes(raceData.rep_candidate) || raceData.margin.startsWith("R");
+
+    // Democrat Row
+    const trDem = document.createElement("tr");
+    trDem.innerHTML = `
+      <td><strong>${raceData.dem_candidate}</strong></td>
+      <td><span class="party-badge party-dem">DEM</span></td>
+      <td>${raceData.dem_votes}</td>
+      <td>
+        <strong>${raceData.dem_pct}</strong>
+        <div class="vote-pct-bar-bg">
+          <div class="vote-pct-bar-fill-dem" style="width: ${raceData.dem_pct};"></div>
+        </div>
+      </td>
+      <td>${demIsWinner ? '<span class="winner-check">✓ Elected</span>' : '<span style="color:#64748b;">Defeated</span>'}</td>
+    `;
+    tbody.appendChild(trDem);
+
+    // Republican Row
+    const trRep = document.createElement("tr");
+    trRep.innerHTML = `
+      <td><strong>${raceData.rep_candidate}</strong></td>
+      <td><span class="party-badge party-rep">REP</span></td>
+      <td>${raceData.rep_votes}</td>
+      <td>
+        <strong>${raceData.rep_pct}</strong>
+        <div class="vote-pct-bar-bg">
+          <div class="vote-pct-bar-fill-rep" style="width: ${raceData.rep_pct};"></div>
+        </div>
+      </td>
+      <td>${repIsWinner ? '<span class="winner-check">✓ Elected</span>' : '<span style="color:#64748b;">Defeated</span>'}</td>
+    `;
+    tbody.appendChild(trRep);
+  }
+
+  function renderStateResults(abbr) {
+    const data = allResults[abbr];
+    if (!data) return;
+
+    document.getElementById("res-state-name").textContent = data.name;
+    document.getElementById("res-state-flag").src = `https://flagcdn.com/w320/us-${abbr.toLowerCase()}.png`;
+    document.getElementById("res-summary").textContent = data.summary;
+
+    const badge = document.getElementById("res-party-badge");
+    badge.textContent = data.party_win + " Victory";
+    if (data.party_win === "Democratic") {
+      badge.style.backgroundColor = "#2563eb";
+      badge.style.color = "#ffffff";
+    } else if (data.party_win === "Republican") {
+      badge.style.backgroundColor = "#dc2626";
+      badge.style.color = "#ffffff";
+    } else {
+      badge.style.backgroundColor = "#9333ea";
+      badge.style.color = "#ffffff";
+    }
+
+    formatRaceTable(data.senate, "senate-tbody");
+    formatRaceTable(data.governor, "governor-tbody");
+
+    const ncSpotlight = document.getElementById("res-nc-spotlight");
+    if (abbr === "NC") {
+      ncSpotlight.style.display = "block";
+    } else {
+      ncSpotlight.style.display = "none";
+    }
+  }
+
+  // Load results json
+  fetch("data/us_election_results_2026.json")
+    .then(r => r.json())
+    .then(data => {
+      allResults = data;
+      const select = document.getElementById("state-results-select");
+
+      const sortedKeys = Object.keys(data).sort((a, b) => data[a].name.localeCompare(data[b].name));
+      sortedKeys.forEach(abbr => {
+        const opt = document.createElement("option");
+        opt.value = abbr;
+        opt.textContent = `${data[abbr].name} (${abbr})`;
+        select.appendChild(opt);
+      });
+
+      select.value = "NC";
+      renderStateResults("NC");
+
+      select.addEventListener("change", function(e) {
+        renderStateResults(e.target.value);
+      });
+    });
+
+  // Map initialization
+  function initMap() {
+    if (map) return;
+    map = L.map("election-map").setView([38.5, -96.5], 4);
+
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; CARTO',
+      maxZoom: 7,
+      minZoom: 3
+    }).addTo(map);
+
+    function mapColor(party) {
+      if (party === "Democratic") return "#2563eb";
+      if (party === "Republican") return "#dc2626";
+      if (party === "Split") return "#9333ea";
+      return "#64748b";
+    }
+
+    fetch("data/us_states_elections_2026.geojson")
+      .then(r => r.json())
+      .then(geo => {
+        geojsonLayer = L.geoJson(geo, {
+          style: function(f) {
+            const res = f.properties.results;
+            const party = res ? res.party_win : "Unknown";
+            return {
+              fillColor: mapColor(party),
+              weight: 1.5,
+              opacity: 1,
+              color: "#ffffff",
+              fillOpacity: 0.8
+            };
+          },
+          onEachFeature: function(feature, layer) {
+            const props = feature.properties;
+            const res = props.results;
+            const party = res ? res.party_win : "Unknown";
+            const summary = res ? res.summary : "";
+
+            const popupContent = `
+              <div style="min-width: 220px; font-family: inherit;">
+                <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+                  <img src="https://flagcdn.com/w320/us-${props.abbr.toLowerCase()}.png" style="width:36px; height:24px; object-fit:cover; border-radius:3px; border:1px solid #cbd5e1;" />
+                  <strong>${props.name}</strong>
+                </div>
+                <div style="margin-bottom:6px;"><span class="party-badge" style="background:${mapColor(party)}; color:#fff;">${party}</span></div>
+                <p style="font-size:0.85rem; margin:0 0 8px 0; color:#334155;">${summary}</p>
+                <button onclick="document.querySelector('#state-results-select').value='${props.abbr}'; document.querySelector('#state-results-select').dispatchEvent(new Event('change')); const tab = document.querySelector('button[id*=\"tab-election-results\"], a[id*=\"tab-election-results\"], button:first-child'); if(tab) tab.click();" style="background:#2563eb; color:#fff; border:0; padding:4px 8px; border-radius:4px; font-size:0.8rem; cursor:pointer;">
+                  View Full Results Tab →
+                </button>
+              </div>
+            `;
+            layer.bindPopup(popupContent);
+
+            layer.on({
+              mouseover: function(e) {
+                e.target.setStyle({ weight: 3, color: "#0f172a", fillOpacity: 0.95 });
+                e.target.bringToFront();
+              },
+              mouseout: function(e) {
+                geojsonLayer.resetStyle(e.target);
+              }
+            });
+          }
+        }).addTo(map);
+      });
+  }
+
+  // Handle Quarto tab switches to invalidate map size
+  document.querySelectorAll('button[data-bs-toggle="tab"], a[data-bs-toggle="tab"]').forEach(btn => {
+    btn.addEventListener('shown.bs.tab', function(e) {
+      if (e.target.innerText.includes("Interactive Map") || e.target.getAttribute("data-bs-target").includes("interactive-map")) {
+        initMap();
+        setTimeout(() => { if (map) map.invalidateSize(); }, 200);
+      }
+    });
+  });
+
+  // If map tab is already active
+  const activeTab = document.querySelector('.nav-link.active');
+  if (activeTab && activeTab.innerText.includes("Interactive Map")) {
+    initMap();
+  }
+});
+</script>
 
 
 
@@ -218,7 +573,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/chloemercurio07\.github\.io\/election-2026\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

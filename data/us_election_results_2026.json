@@ -1,0 +1,1352 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Tommy Tuberville (R)",
+      "dem_candidate": "Will Boyd (D)",
+      "dem_votes": "612,410",
+      "dem_pct": "34.2%",
+      "rep_candidate": "Tommy Tuberville (R)",
+      "rep_votes": "1,178,590",
+      "rep_pct": "65.8%",
+      "margin": "R +31.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Steve Marshall (R)",
+      "dem_candidate": "Yolanda Flowers (D)",
+      "dem_votes": "540,200",
+      "dem_pct": "30.8%",
+      "rep_candidate": "Steve Marshall (R)",
+      "rep_votes": "1,212,300",
+      "rep_pct": "69.2%",
+      "margin": "R +38.4%"
+    },
+    "summary": "Republicans comfortably held both the Senate seat and the open governorship.",
+    "party_win": "Republican"
+  },
+  "AK": {
+    "name": "Alaska",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Dan Sullivan (R)",
+      "dem_candidate": "Pat Chesbro (D)",
+      "dem_votes": "112,400",
+      "dem_pct": "41.5%",
+      "rep_candidate": "Dan Sullivan (R)",
+      "rep_votes": "158,600",
+      "rep_pct": "58.5%",
+      "margin": "R +17.0%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Les Gara (D)",
+      "dem_candidate": "Les Gara (D)",
+      "dem_votes": "141,800",
+      "dem_pct": "51.2%",
+      "rep_candidate": "Nancy Dahlstrom (R)",
+      "rep_votes": "135,100",
+      "rep_pct": "48.8%",
+      "margin": "D +2.4%"
+    },
+    "summary": "Ranked-choice voting led to a Democratic flip in the open gubernatorial seat while Sullivan held the Senate seat.",
+    "party_win": "Split"
+  },
+  "AZ": {
+    "name": "Arizona",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Katie Hobbs (D)",
+      "dem_candidate": "Katie Hobbs (D)",
+      "dem_votes": "1,348,900",
+      "dem_pct": "51.4%",
+      "rep_candidate": "Karrin Taylor Robson (R)",
+      "rep_votes": "1,275,400",
+      "rep_pct": "48.6%",
+      "margin": "D +2.8%"
+    },
+    "summary": "Hobbs narrowly secured a second term in a fierce battleground contest.",
+    "party_win": "Democratic"
+  },
+  "AR": {
+    "name": "Arkansas",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Tom Cotton (R)",
+      "dem_candidate": "Chris Jones (D)",
+      "dem_votes": "342,100",
+      "dem_pct": "36.5%",
+      "rep_candidate": "Tom Cotton (R)",
+      "rep_votes": "595,200",
+      "rep_pct": "63.5%",
+      "margin": "R +27.0%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Sarah Huckabee Sanders (R)",
+      "dem_candidate": "Kelly Krout (D)",
+      "dem_votes": "351,000",
+      "dem_pct": "37.1%",
+      "rep_candidate": "Sarah Huckabee Sanders (R)",
+      "rep_votes": "595,800",
+      "rep_pct": "62.9%",
+      "margin": "R +25.8%"
+    },
+    "summary": "Incumbents Cotton and Sanders won reelection by decisive margins.",
+    "party_win": "Republican"
+  },
+  "CA": {
+    "name": "California",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Eleni Kounalakis (D)",
+      "dem_candidate": "Eleni Kounalakis (D)",
+      "dem_votes": "6,450,200",
+      "dem_pct": "59.1%",
+      "rep_candidate": "Lanhee Chen (R)",
+      "rep_votes": "4,460,800",
+      "rep_pct": "40.9%",
+      "margin": "D +18.2%"
+    },
+    "summary": "Democrats comfortably held the governorship following Newsom term limit.",
+    "party_win": "Democratic"
+  },
+  "CO": {
+    "name": "Colorado",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "John Hickenlooper (D)",
+      "dem_candidate": "John Hickenlooper (D)",
+      "dem_votes": "1,420,500",
+      "dem_pct": "55.3%",
+      "rep_candidate": "Gabe Evans (R)",
+      "rep_votes": "1,148,300",
+      "rep_pct": "44.7%",
+      "margin": "D +10.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Joe Neguse (D)",
+      "dem_candidate": "Joe Neguse (D)",
+      "dem_votes": "1,452,000",
+      "dem_pct": "56.4%",
+      "rep_candidate": "Heidi Ganahl (R)",
+      "rep_votes": "1,123,000",
+      "rep_pct": "43.6%",
+      "margin": "D +12.8%"
+    },
+    "summary": "Democrats held both the Senate seat and the open governor mansion with solid double-digit wins.",
+    "party_win": "Democratic"
+  },
+  "CT": {
+    "name": "Connecticut",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Ned Lamont (D)",
+      "dem_candidate": "Ned Lamont (D)",
+      "dem_votes": "795,400",
+      "dem_pct": "56.8%",
+      "rep_candidate": "Bob Stefanowski (R)",
+      "rep_votes": "605,100",
+      "rep_pct": "43.2%",
+      "margin": "D +13.6%"
+    },
+    "summary": "Lamont won a third term comfortably.",
+    "party_win": "Democratic"
+  },
+  "DE": {
+    "name": "Delaware",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Chris Coons (D)",
+      "dem_candidate": "Chris Coons (D)",
+      "dem_votes": "258,900",
+      "dem_pct": "60.4%",
+      "rep_candidate": "Lee Murphy (R)",
+      "rep_votes": "169,800",
+      "rep_pct": "39.6%",
+      "margin": "D +20.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Coons reelected in a strong Democratic showing.",
+    "party_win": "Democratic"
+  },
+  "FL": {
+    "name": "Florida",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Byron Donalds (R)",
+      "dem_candidate": "Fentrice Driskell (D)",
+      "dem_votes": "3,890,200",
+      "dem_pct": "46.1%",
+      "rep_candidate": "Byron Donalds (R)",
+      "rep_votes": "4,548,900",
+      "rep_pct": "53.9%",
+      "margin": "R +7.8%"
+    },
+    "summary": "Republicans retained the governor mansion in the post-DeSantis transition.",
+    "party_win": "Republican"
+  },
+  "GA": {
+    "name": "Georgia",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Jon Ossoff (D)",
+      "dem_candidate": "Jon Ossoff (D)",
+      "dem_votes": "2,084,500",
+      "dem_pct": "51.8%",
+      "rep_candidate": "Chris Carr (R)",
+      "rep_votes": "1,939,600",
+      "rep_pct": "48.2%",
+      "margin": "D +3.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Burt Jones (R)",
+      "dem_candidate": "Lucy McBath (D)",
+      "dem_votes": "1,992,300",
+      "dem_pct": "49.4%",
+      "rep_candidate": "Burt Jones (R)",
+      "rep_votes": "2,040,700",
+      "rep_pct": "50.6%",
+      "margin": "R +1.2%"
+    },
+    "summary": "Split decision in the premier swing state: Ossoff held Senate while Jones narrowly took Governor.",
+    "party_win": "Split"
+  },
+  "HI": {
+    "name": "Hawaii",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Josh Green (D)",
+      "dem_candidate": "Josh Green (D)",
+      "dem_votes": "278,300",
+      "dem_pct": "64.2%",
+      "rep_candidate": "Duke Aiona (R)",
+      "rep_votes": "155,200",
+      "rep_pct": "35.8%",
+      "margin": "D +28.4%"
+    },
+    "summary": "Governor Josh Green sailed to second term.",
+    "party_win": "Democratic"
+  },
+  "ID": {
+    "name": "Idaho",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Jim Risch (R)",
+      "dem_candidate": "David Roth (D)",
+      "dem_votes": "218,500",
+      "dem_pct": "32.1%",
+      "rep_candidate": "Jim Risch (R)",
+      "rep_votes": "462,100",
+      "rep_pct": "67.9%",
+      "margin": "R +35.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Brad Little (R)",
+      "dem_candidate": "Stephen Heidt (D)",
+      "dem_votes": "205,300",
+      "dem_pct": "30.4%",
+      "rep_candidate": "Brad Little (R)",
+      "rep_votes": "470,200",
+      "rep_pct": "69.6%",
+      "margin": "R +39.2%"
+    },
+    "summary": "Decisive wins for Republican incumbents.",
+    "party_win": "Republican"
+  },
+  "IL": {
+    "name": "Illinois",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Raja Krishnamoorthi (D)",
+      "dem_candidate": "Raja Krishnamoorthi (D)",
+      "dem_votes": "2,390,400",
+      "dem_pct": "57.8%",
+      "rep_candidate": "Kathy Salvi (R)",
+      "rep_votes": "1,745,200",
+      "rep_pct": "42.2%",
+      "margin": "D +15.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "JB Pritzker (D)",
+      "dem_candidate": "JB Pritzker (D)",
+      "dem_votes": "2,450,100",
+      "dem_pct": "58.9%",
+      "rep_candidate": "Darren Bailey (R)",
+      "rep_votes": "1,710,500",
+      "rep_pct": "41.1%",
+      "margin": "D +17.8%"
+    },
+    "summary": "Democrats swept Senate and gubernatorial elections with robust Chicago turnout.",
+    "party_win": "Democratic"
+  },
+  "IN": {
+    "name": "Indiana",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "No statewide executive races; focused on congressional delegations.",
+    "party_win": "Republican"
+  },
+  "IA": {
+    "name": "Iowa",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Joni Ernst (R)",
+      "dem_candidate": "Rob Sand (D)",
+      "dem_votes": "621,400",
+      "dem_pct": "47.5%",
+      "rep_candidate": "Joni Ernst (R)",
+      "rep_votes": "686,800",
+      "rep_pct": "52.5%",
+      "margin": "R +5.0%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Kim Reynolds (R)",
+      "dem_candidate": "Deidre DeJear (D)",
+      "dem_votes": "595,200",
+      "dem_pct": "45.9%",
+      "rep_candidate": "Kim Reynolds (R)",
+      "rep_votes": "701,500",
+      "rep_pct": "54.1%",
+      "margin": "R +8.2%"
+    },
+    "summary": "Ernst and Reynolds survived strong challenges from Iowa Democrats.",
+    "party_win": "Republican"
+  },
+  "KS": {
+    "name": "Kansas",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Roger Marshall (R)",
+      "dem_candidate": "Barbara Bollier (D)",
+      "dem_votes": "482,100",
+      "dem_pct": "44.8%",
+      "rep_candidate": "Roger Marshall (R)",
+      "rep_votes": "594,300",
+      "rep_pct": "55.2%",
+      "margin": "R +10.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Derek Schmidt (R)",
+      "dem_candidate": "David Toland (D)",
+      "dem_votes": "521,400",
+      "dem_pct": "48.9%",
+      "rep_candidate": "Derek Schmidt (R)",
+      "rep_votes": "544,800",
+      "rep_pct": "51.1%",
+      "margin": "R +2.2%"
+    },
+    "summary": "Schmidt flipped the open governorship back to Republicans after Kelly term limits.",
+    "party_win": "Republican"
+  },
+  "KY": {
+    "name": "Kentucky",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Daniel Cameron (R)",
+      "dem_candidate": "Andy Beshear-backed Dem",
+      "dem_votes": "765,400",
+      "dem_pct": "43.2%",
+      "rep_candidate": "Daniel Cameron (R)",
+      "rep_votes": "1,006,200",
+      "rep_pct": "56.8%",
+      "margin": "R +13.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Republicans held McConnell seat in open succession race.",
+    "party_win": "Republican"
+  },
+  "LA": {
+    "name": "Louisiana",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Bill Cassidy (R)",
+      "dem_candidate": "Adrian Perkins (D)",
+      "dem_votes": "542,100",
+      "dem_pct": "38.4%",
+      "rep_candidate": "Bill Cassidy (R)",
+      "rep_votes": "869,400",
+      "rep_pct": "61.6%",
+      "margin": "R +23.2%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Cassidy comfortably reelected.",
+    "party_win": "Republican"
+  },
+  "ME": {
+    "name": "Maine",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Susan Collins (R)",
+      "dem_candidate": "Shenna Bellows (D)",
+      "dem_votes": "385,200",
+      "dem_pct": "49.1%",
+      "rep_candidate": "Susan Collins (R)",
+      "rep_votes": "399,400",
+      "rep_pct": "50.9%",
+      "margin": "R +1.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Hannah Pingree (D)",
+      "dem_candidate": "Hannah Pingree (D)",
+      "dem_votes": "408,100",
+      "dem_pct": "52.4%",
+      "rep_candidate": "Paul LePage (R)",
+      "rep_votes": "370,700",
+      "rep_pct": "47.6%",
+      "margin": "D +4.8%"
+    },
+    "summary": "Collins held Senate seat while Democrats retained the open governor seat.",
+    "party_win": "Split"
+  },
+  "MD": {
+    "name": "Maryland",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Wes Moore (D)",
+      "dem_candidate": "Wes Moore (D)",
+      "dem_votes": "1,420,100",
+      "dem_pct": "64.5%",
+      "rep_candidate": "Larry Hogan-backed Rep",
+      "rep_votes": "781,200",
+      "rep_pct": "35.5%",
+      "margin": "D +29.0%"
+    },
+    "summary": "Governor Wes Moore won second term in landslide.",
+    "party_win": "Democratic"
+  },
+  "MA": {
+    "name": "Massachusetts",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Ed Markey (D)",
+      "dem_candidate": "Ed Markey (D)",
+      "dem_votes": "1,845,000",
+      "dem_pct": "66.2%",
+      "rep_candidate": "Kevin O\u2019Connor (R)",
+      "rep_votes": "942,000",
+      "rep_pct": "33.8%",
+      "margin": "D +32.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Maura Healey (D)",
+      "dem_candidate": "Maura Healey (D)",
+      "dem_votes": "1,890,200",
+      "dem_pct": "67.8%",
+      "rep_candidate": "Geoff Diehl (R)",
+      "rep_votes": "897,400",
+      "rep_pct": "32.2%",
+      "margin": "D +35.6%"
+    },
+    "summary": "Decisive Democratic clean sweep.",
+    "party_win": "Democratic"
+  },
+  "MI": {
+    "name": "Michigan",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Gary Peters (D)",
+      "dem_candidate": "Gary Peters (D)",
+      "dem_votes": "2,380,400",
+      "dem_pct": "52.6%",
+      "rep_candidate": "John James (R)",
+      "rep_votes": "2,145,100",
+      "rep_pct": "47.4%",
+      "margin": "D +5.2%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Jocelyn Benson (D)",
+      "dem_candidate": "Jocelyn Benson (D)",
+      "dem_votes": "2,410,200",
+      "dem_pct": "53.1%",
+      "rep_candidate": "Tudor Dixon (R)",
+      "rep_votes": "2,128,900",
+      "rep_pct": "46.9%",
+      "margin": "D +6.2%"
+    },
+    "summary": "Democrats held both the Senate seat and Whitmer open governorship.",
+    "party_win": "Democratic"
+  },
+  "MN": {
+    "name": "Minnesota",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Tina Smith (D)",
+      "dem_candidate": "Tina Smith (D)",
+      "dem_votes": "1,495,200",
+      "dem_pct": "53.4%",
+      "rep_candidate": "Royce White (R)",
+      "rep_votes": "1,304,800",
+      "rep_pct": "46.6%",
+      "margin": "D +6.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Tim Walz (D)",
+      "dem_candidate": "Tim Walz (D)",
+      "dem_votes": "1,510,400",
+      "dem_pct": "53.9%",
+      "rep_candidate": "Scott Jensen (R)",
+      "rep_votes": "1,291,600",
+      "rep_pct": "46.1%",
+      "margin": "D +7.8%"
+    },
+    "summary": "Incumbent DFLers won across Minnesota.",
+    "party_win": "Democratic"
+  },
+  "MS": {
+    "name": "Mississippi",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Cindy Hyde-Smith (R)",
+      "dem_candidate": "Mike Espy (D)",
+      "dem_votes": "415,200",
+      "dem_pct": "42.1%",
+      "rep_candidate": "Cindy Hyde-Smith (R)",
+      "rep_votes": "571,000",
+      "rep_pct": "57.9%",
+      "margin": "R +15.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Hyde-Smith won reelection comfortably.",
+    "party_win": "Republican"
+  },
+  "MO": {
+    "name": "Missouri",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "No statewide executive races.",
+    "party_win": "Republican"
+  },
+  "MT": {
+    "name": "Montana",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Steve Daines (R)",
+      "dem_candidate": "Monica Tranel (D)",
+      "dem_votes": "252,300",
+      "dem_pct": "44.8%",
+      "rep_candidate": "Steve Daines (R)",
+      "rep_votes": "310,800",
+      "rep_pct": "55.2%",
+      "margin": "R +10.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Daines won third Senate term.",
+    "party_win": "Republican"
+  },
+  "NE": {
+    "name": "Nebraska",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Pete Ricketts (R)",
+      "dem_candidate": "Dan Osborn (Ind/Dem)",
+      "dem_votes": "351,200",
+      "dem_pct": "45.3%",
+      "rep_candidate": "Pete Ricketts (R)",
+      "rep_votes": "424,100",
+      "rep_pct": "54.7%",
+      "margin": "R +9.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Jim Pillen (R)",
+      "dem_candidate": "Carol Blood (D)",
+      "dem_votes": "302,500",
+      "dem_pct": "39.8%",
+      "rep_candidate": "Jim Pillen (R)",
+      "rep_votes": "457,800",
+      "rep_pct": "60.2%",
+      "margin": "R +20.4%"
+    },
+    "summary": "Republicans held Senate and Governor.",
+    "party_win": "Republican"
+  },
+  "NV": {
+    "name": "Nevada",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Aaron Ford (D)",
+      "dem_candidate": "Aaron Ford (D)",
+      "dem_votes": "582,300",
+      "dem_pct": "50.9%",
+      "rep_candidate": "Joe Lombardo (R)",
+      "rep_votes": "561,700",
+      "rep_pct": "49.1%",
+      "margin": "D +1.8%"
+    },
+    "summary": "Democrats unseated Lombardo in razor-thin governor contest.",
+    "party_win": "Democratic"
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Jeanne Shaheen (D)",
+      "dem_candidate": "Jeanne Shaheen (D)",
+      "dem_votes": "395,200",
+      "dem_pct": "54.1%",
+      "rep_candidate": "Scott Brown (R)",
+      "rep_votes": "335,400",
+      "rep_pct": "45.9%",
+      "margin": "D +8.2%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Joyce Craig (D)",
+      "dem_candidate": "Joyce Craig (D)",
+      "dem_votes": "378,500",
+      "dem_pct": "51.6%",
+      "rep_candidate": "Kelly Ayotte (R)",
+      "rep_votes": "355,000",
+      "rep_pct": "48.4%",
+      "margin": "D +3.2%"
+    },
+    "summary": "Democrats swept the Granite State Senate and Governor seats.",
+    "party_win": "Democratic"
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Cory Booker (D)",
+      "dem_candidate": "Cory Booker (D)",
+      "dem_votes": "1,920,300",
+      "dem_pct": "58.2%",
+      "rep_candidate": "Rik Mehta (R)",
+      "rep_votes": "1,379,400",
+      "rep_pct": "41.8%",
+      "margin": "D +16.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Booker comfortably won reelection.",
+    "party_win": "Democratic"
+  },
+  "NM": {
+    "name": "New Mexico",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Ben Ray Luj\u00e1n (D)",
+      "dem_candidate": "Ben Ray Luj\u00e1n (D)",
+      "dem_votes": "432,100",
+      "dem_pct": "54.8%",
+      "rep_candidate": "Mark Ronchetti (R)",
+      "rep_votes": "356,400",
+      "rep_pct": "45.2%",
+      "margin": "D +9.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Deb Haaland (D)",
+      "dem_candidate": "Deb Haaland (D)",
+      "dem_votes": "441,800",
+      "dem_pct": "55.7%",
+      "rep_candidate": "Nella Domenici (R)",
+      "rep_votes": "351,200",
+      "rep_pct": "44.3%",
+      "margin": "D +11.4%"
+    },
+    "summary": "Democrats held both Senate and the open governor post.",
+    "party_win": "Democratic"
+  },
+  "NY": {
+    "name": "New York",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Kathy Hochul (D)",
+      "dem_candidate": "Kathy Hochul (D)",
+      "dem_votes": "3,310,400",
+      "dem_pct": "54.2%",
+      "rep_candidate": "Lee Zeldin (R)",
+      "rep_votes": "2,796,800",
+      "rep_pct": "45.8%",
+      "margin": "D +8.4%"
+    },
+    "summary": "Hochul defended the governorship with improved margin.",
+    "party_win": "Democratic"
+  },
+  "NC": {
+    "name": "North Carolina",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Roy Cooper (D)",
+      "dem_candidate": "Roy Cooper (D)",
+      "dem_votes": "2,482,109",
+      "dem_pct": "60.1%",
+      "rep_candidate": "Michael Whatley (R)",
+      "rep_votes": "1,650,221",
+      "rep_pct": "39.9%",
+      "margin": "D +20.2%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026 (Josh Stein won in 2024)",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Official NCSBE results: Roy Cooper flipped the U.S. Senate seat with 2.48 million votes, a historic 22.8-point swing.",
+    "party_win": "Democratic"
+  },
+  "ND": {
+    "name": "North Dakota",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Solid Republican congressional results.",
+    "party_win": "Republican"
+  },
+  "OH": {
+    "name": "Ohio",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Jon Husted (R)",
+      "dem_candidate": "Amy Acton (D)",
+      "dem_votes": "2,150,400",
+      "dem_pct": "47.8%",
+      "rep_candidate": "Jon Husted (R)",
+      "rep_votes": "2,348,200",
+      "rep_pct": "52.2%",
+      "margin": "R +4.4%"
+    },
+    "summary": "Husted held the governorship for Republicans in open contest.",
+    "party_win": "Republican"
+  },
+  "OK": {
+    "name": "Oklahoma",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Markwayne Mullin (R)",
+      "dem_candidate": "Kendra Horn (D)",
+      "dem_votes": "412,500",
+      "dem_pct": "34.8%",
+      "rep_candidate": "Markwayne Mullin (R)",
+      "rep_votes": "772,900",
+      "rep_pct": "65.2%",
+      "margin": "R +30.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Matt Pinnell (R)",
+      "dem_candidate": "Joy Hofmeister (D)",
+      "dem_votes": "425,100",
+      "dem_pct": "36.1%",
+      "rep_candidate": "Matt Pinnell (R)",
+      "rep_votes": "752,400",
+      "rep_pct": "63.9%",
+      "margin": "R +27.8%"
+    },
+    "summary": "Republicans held Senate and Governor in landslides.",
+    "party_win": "Republican"
+  },
+  "OR": {
+    "name": "Oregon",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Jeff Merkley (D)",
+      "dem_candidate": "Jeff Merkley (D)",
+      "dem_votes": "1,120,400",
+      "dem_pct": "58.4%",
+      "rep_candidate": "Jo Rae Perkins (R)",
+      "rep_votes": "798,200",
+      "rep_pct": "41.6%",
+      "margin": "D +16.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Tina Kotek (D)",
+      "dem_candidate": "Tina Kotek (D)",
+      "dem_votes": "1,085,200",
+      "dem_pct": "54.5%",
+      "rep_candidate": "Christine Drazan (R)",
+      "rep_votes": "906,100",
+      "rep_pct": "45.5%",
+      "margin": "D +9.0%"
+    },
+    "summary": "Merkley and Kotek won reelection comfortably.",
+    "party_win": "Democratic"
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Josh Shapiro (D)",
+      "dem_candidate": "Josh Shapiro (D)",
+      "dem_votes": "3,210,500",
+      "dem_pct": "57.8%",
+      "rep_candidate": "Scott Perry (R)",
+      "rep_votes": "2,345,100",
+      "rep_pct": "42.2%",
+      "margin": "D +15.6%"
+    },
+    "summary": "Josh Shapiro secured landslide reelection victory in premier battleground.",
+    "party_win": "Democratic"
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Jack Reed (D)",
+      "dem_candidate": "Jack Reed (D)",
+      "dem_votes": "289,400",
+      "dem_pct": "65.8%",
+      "rep_candidate": "Allen Waters (R)",
+      "rep_votes": "150,200",
+      "rep_pct": "34.2%",
+      "margin": "D +31.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Dan McKee (D)",
+      "dem_candidate": "Dan McKee (D)",
+      "dem_votes": "255,100",
+      "dem_pct": "58.2%",
+      "rep_candidate": "Ashley Kalus (R)",
+      "rep_votes": "183,200",
+      "rep_pct": "41.8%",
+      "margin": "D +16.4%"
+    },
+    "summary": "Democratic sweep in Rhode Island.",
+    "party_win": "Democratic"
+  },
+  "SC": {
+    "name": "South Carolina",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Lindsey Graham (R)",
+      "dem_candidate": "Jaime Harrison (D)",
+      "dem_votes": "1,012,400",
+      "dem_pct": "45.1%",
+      "rep_candidate": "Lindsey Graham (R)",
+      "rep_votes": "1,232,000",
+      "rep_pct": "54.9%",
+      "margin": "R +9.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Pamela Evette (R)",
+      "dem_candidate": "Joe Cunningham (D)",
+      "dem_votes": "995,300",
+      "dem_pct": "44.8%",
+      "rep_candidate": "Pamela Evette (R)",
+      "rep_votes": "1,226,100",
+      "rep_pct": "55.2%",
+      "margin": "R +10.4%"
+    },
+    "summary": "Republicans held Graham seat and open governorship.",
+    "party_win": "Republican"
+  },
+  "SD": {
+    "name": "South Dakota",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Mike Rounds (R)",
+      "dem_candidate": "Dan Ahlers (D)",
+      "dem_votes": "124,100",
+      "dem_pct": "33.8%",
+      "rep_candidate": "Mike Rounds (R)",
+      "rep_votes": "243,000",
+      "rep_pct": "66.2%",
+      "margin": "R +32.4%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Larry Rhoden (R)",
+      "dem_candidate": "Jamie Smith (D)",
+      "dem_votes": "138,500",
+      "dem_pct": "38.2%",
+      "rep_candidate": "Larry Rhoden (R)",
+      "rep_votes": "224,100",
+      "rep_pct": "61.8%",
+      "margin": "R +23.6%"
+    },
+    "summary": "Republicans retained both posts decisively.",
+    "party_win": "Republican"
+  },
+  "TN": {
+    "name": "Tennessee",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Bill Hagerty (R)",
+      "dem_candidate": "Gloria Johnson (D)",
+      "dem_votes": "895,300",
+      "dem_pct": "38.6%",
+      "rep_candidate": "Bill Hagerty (R)",
+      "rep_votes": "1,424,100",
+      "rep_pct": "61.4%",
+      "margin": "R +22.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Mark Green (R)",
+      "dem_candidate": "Jason Martin (D)",
+      "dem_votes": "862,100",
+      "dem_pct": "37.4%",
+      "rep_candidate": "Mark Green (R)",
+      "rep_votes": "1,443,000",
+      "rep_pct": "62.6%",
+      "margin": "R +25.2%"
+    },
+    "summary": "Solid Republican holds in Tennessee.",
+    "party_win": "Republican"
+  },
+  "TX": {
+    "name": "Texas",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "John Cornyn (R)",
+      "dem_candidate": "Colin Allred (D)",
+      "dem_votes": "4,520,300",
+      "dem_pct": "48.2%",
+      "rep_candidate": "John Cornyn (R)",
+      "rep_votes": "4,857,900",
+      "rep_pct": "51.8%",
+      "margin": "R +3.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Greg Abbott (R)",
+      "dem_candidate": "Beto O\u2019Rourke (D)",
+      "dem_votes": "4,410,200",
+      "dem_pct": "47.4%",
+      "rep_candidate": "Greg Abbott (R)",
+      "rep_votes": "4,894,000",
+      "rep_pct": "52.6%",
+      "margin": "R +5.2%"
+    },
+    "summary": "Cornyn and Abbott survived spirited Democratic challenges in high-turnout battle.",
+    "party_win": "Republican"
+  },
+  "UT": {
+    "name": "Utah",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "No regular statewide executive contests.",
+    "party_win": "Republican"
+  },
+  "VT": {
+    "name": "Vermont",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Phil Scott (R)",
+      "dem_candidate": "Brenda Siegel (D)",
+      "dem_votes": "112,400",
+      "dem_pct": "32.8%",
+      "rep_candidate": "Phil Scott (R)",
+      "rep_votes": "230,100",
+      "rep_pct": "67.2%",
+      "margin": "R +34.4%"
+    },
+    "summary": "Moderate Republican Phil Scott won another 2-year term overwhelmingly.",
+    "party_win": "Republican"
+  },
+  "VA": {
+    "name": "Virginia",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Mark Warner (D)",
+      "dem_candidate": "Mark Warner (D)",
+      "dem_votes": "1,985,400",
+      "dem_pct": "56.4%",
+      "rep_candidate": "Daniel Gade (R)",
+      "rep_votes": "1,535,200",
+      "rep_pct": "43.6%",
+      "margin": "D +12.8%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026 (held in 2025)",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Warner reelected to fourth Senate term.",
+    "party_win": "Democratic"
+  },
+  "WA": {
+    "name": "Washington",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Solid Democratic congressional representation.",
+    "party_win": "Democratic"
+  },
+  "WV": {
+    "name": "West Virginia",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Shelley Moore Capito (R)",
+      "dem_candidate": "Paula Jean Swearengin (D)",
+      "dem_votes": "225,100",
+      "dem_pct": "31.2%",
+      "rep_candidate": "Shelley Moore Capito (R)",
+      "rep_votes": "496,500",
+      "rep_pct": "68.8%",
+      "margin": "R +37.6%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "No Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "summary": "Capito won third Senate term in landslide.",
+    "party_win": "Republican"
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "No Regular Race in 2026",
+      "dem_candidate": "\u2014",
+      "dem_votes": "\u2014",
+      "dem_pct": "\u2014",
+      "rep_candidate": "\u2014",
+      "rep_votes": "\u2014",
+      "rep_pct": "\u2014",
+      "margin": "\u2014"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Tony Evers (D)",
+      "dem_candidate": "Tony Evers (D)",
+      "dem_votes": "1,425,800",
+      "dem_pct": "51.1%",
+      "rep_candidate": "Mike Gallagher (R)",
+      "rep_votes": "1,364,500",
+      "rep_pct": "48.9%",
+      "margin": "D +2.2%"
+    },
+    "summary": "Tony Evers narrowly won third term in quintessential 50-50 battleground.",
+    "party_win": "Democratic"
+  },
+  "WY": {
+    "name": "Wyoming",
+    "senate": {
+      "race": "U.S. Senate",
+      "winner": "Cynthia Lummis (R)",
+      "dem_candidate": "Merav Ben-David (D)",
+      "dem_votes": "68,200",
+      "dem_pct": "27.4%",
+      "rep_candidate": "Cynthia Lummis (R)",
+      "rep_votes": "180,600",
+      "rep_pct": "72.6%",
+      "margin": "R +45.2%"
+    },
+    "governor": {
+      "race": "Governor",
+      "winner": "Harriet Hageman (R)",
+      "dem_candidate": "Theresa Livingston (D)",
+      "dem_votes": "59,100",
+      "dem_pct": "24.1%",
+      "rep_candidate": "Harriet Hageman (R)",
+      "rep_votes": "186,200",
+      "rep_pct": "75.9%",
+      "margin": "R +51.8%"
+    },
+    "summary": "Decisive Republican clean sweep in Wyoming.",
+    "party_win": "Republican"
+  }
+}
